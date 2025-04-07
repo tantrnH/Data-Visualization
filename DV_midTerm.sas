@@ -1,3 +1,17 @@
+/* 
+-----NOTE-----
+sashelp.baseball
+save file
+insert new variable to sashelp.baseball and at to all rows country = "Malaya"
+create table 
+title
+join table
+drop or keep variable
+if then else if 
+clear missing value rows
+count word in paragraph
+*/
+
 /* Question 1 */
 /* Q1a */
 data S2Q1;
