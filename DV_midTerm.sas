@@ -1,6 +1,6 @@
 /* 
 -----NOTE-----
-sashelp.baseball
+input sashelp.baseball
 save file
 insert new variable to sashelp.baseball and at to all rows country = "Malaya"
 create table 
